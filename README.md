@@ -1,7 +1,7 @@
 # 💫 About Me:
-Olá :octocat:<br><br>Meu nome é Vitoria e tenho 24 anos. Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e trabalhei como desenvolvedora Java a um pouco mais de três anos. Minha trajetória como dev teve inicio no Banco Santander e atualmente sou Engenheira de Software Pleno no Itaú Unibanco.<br>Sou apaixonada por tecnologia e programação, encaro cada novo dia que chega como mais uma chande de me aperfeiçoar e ficar cada vez melhor naquilo que amo fazer: Programar 💻<br>Por aqui você verá repositórios usados para exercícios da época da faculdade, para cursos e projetinhos pessoais. Mas em sua maioria são repositórios destinados a estudos.
-Atualmente a minha caminhada como desenvolvedora tomou um novo curso e agora estou atuando em desenvolvimento voltado para dados.
-Trabalho com Python e Pyspark na construção de processos ETL.
+Olá :octocat:<br><br>Meu nome é Vitoria e tenho 24 anos. Sou formada em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e trabalhei como desenvolvedora Java a um pouco mais de três anos. Atualmente a minha caminhada como desenvolvedora tomou um novo curso e agora estou atuando em desenvolvimento voltado para dados, utilizando Python e Pyspark na construção de processos ETL e etc.
+Minha trajetória como dev teve inicio no Banco Santander e atualmente sou Engenheira de Software Pleno no Itaú Unibanco.<br>Sou apaixonada por tecnologia e programação, encaro cada novo dia que chega como mais uma chande de me aperfeiçoar e ficar cada vez melhor naquilo que amo fazer: Programar 💻<br>Por aqui você verá repositórios usados para exercícios da época da faculdade, para cursos e projetinhos pessoais. Mas em sua maioria são repositórios destinados a estudos.
+
 
 
 ## 🌐 Socials:
